@@ -1,0 +1,993 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new discovery of an old intreague a satyr level'd at treachery and ambition, calculated to the nativity of the rapparee plott, and the modesty of the Jacobite clergy ...</title>
+            <author>Defoe, Daniel, 1661?-1731.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 41 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21138</idno>
+            <idno type="STC">Wing D838</idno>
+            <idno type="EEBO-CITATION">12137929</idno>
+            <idno type="OCLC">ocm 12137929</idno>
+            <idno type="VID">199149</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199149)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 91:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new discovery of an old intreague a satyr level'd at treachery and ambition, calculated to the nativity of the rapparee plott, and the modesty of the Jacobite clergy ...</title>
+                  <author>Defoe, Daniel, 1661?-1731.</author>
+               </titleStmt>
+               <extent>[4], 3-36 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to Daniel Defoe. Cf. BM.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:199149:1"/>
+            <pb facs="tcp:199149:1" rendition="simple:additions"/>
+            <p>New Diſcovery OF AN <hi rend="blackletterType">Old Intreague:</hi> A SATYR LEVEL'D AT Treachery and Ambition: CALCULATED To the Nativity of the <hi>Rapparee Plott,</hi> and the Modeſty of the <hi>Jacobite Clergy.</hi>DESIGNED By Way of Conviction to the CXVII. <hi>PETITIONERS,</hi> and for the Benefit of thoſe that Study the <hi>Mathematicks.</hi>
+            </p>
+            <q>
+               <hi>Unus Nobis Cunctando Reſtituit.</hi>—
+<bibl>Ennius.</bibl>
+            </q>
+            <p>Printed in the Year MDCXCI.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:199149:2" rendition="simple:additions"/>
+            <pb facs="tcp:199149:2" rendition="simple:additions"/>
+            <head>PREFACE TO THE One Hundred &amp; Seventeen.</head>
+            <p>THE End of <hi>Satyr</hi> ought to be, expo<g ref="char:EOLhyphen"/>ſing Falſhood, in order to Reformation. As all Warrings are <g ref="char:V">Ʋ</g>nlawfull whoſe Aim is not Peace; ſo Satyrs not thus meant, are no more <hi>Satyrs</hi> but <hi>Libells.</hi> One great Character, and the Lines of which I liked as well as any, is left out here: Becauſe the Perſon is Attoning, as I am told, for the paſt Errors of his Practice, by a future Loyalty to the Government. As for me, if I am blamed for accounting the <hi>Petition</hi> re<g ref="char:EOLhyphen"/>flected on, a Branch of our New <hi>Jacobite Plott,</hi> I referre to the Letters taken with my Lord <hi>Preſton:</hi> and ſay no more, to any whoſe meaning was ſhort of that, (as I hope ſome were) than that they may here ſee and be convinced whoſe Tools they have been made, and whoſe Work they have been doing.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:199149:3"/>
+            <head>PREFACE.</head>
+            <p>For my ſelf, <hi>Gentlemen,</hi> who I am, you muſt excuſe me, you ſhall not know: Why I wrote this, I ſhall anſwer onely Negatively: Not for <hi>Profit,</hi> nor make none of it I aſſure you; and if I thought I could work on you, I would beſtow <hi>117</hi> upon you <hi>gratis,</hi> and loſe ſo much for a Reformation: Not for <hi>Applauſe</hi> I aſſure you, for I ſhall not ſo much as ask How you like it: Not for <hi>Envy</hi> or <hi>Malice,</hi> for I Honour your Perſons, and ſhould be glad to ſee you become <hi>Engliſh-men</hi> again; and as I hinted above, ſhould be ſo much a Friend to the Work of Converſion, as to leave out any other Character of a Reforming Brother.</p>
+            <p>If no Reformation follows, I muſt do as <hi>Provi<g ref="char:EOLhyphen"/>dence</hi> does, let you alone to your Own Wills, and as I never drew my Pen before, ſo expect no Se<g ref="char:EOLhyphen"/>cond <hi>Item</hi> from</p>
+            <closer>
+               <signed>Your Humble Servant, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:199149:3"/>
+            <div type="introduction">
+               <head>THE INTRODUCTION.</head>
+               <lg>
+                  <l>IN ancient Times when men of Worth were known,</l>
+                  <l>Not by their Fathers Actions but their own,</l>
+                  <l>When Honours ſacred Pile could be come at,</l>
+                  <l>But by the Steps to Virtue Dedicate;</l>
+                  <l>No purchas'd Fame our Panegyricks ſung,</l>
+                  <l>Nor were our widdowed Harps on Willows hung.</l>
+                  <l>Renown by Down-right hazard was attain'd,</l>
+                  <l>And Deeds of Honour onely Honour gain'd.</l>
+                  <l>Expence of Blood the Noble Theam began,</l>
+                  <l>And he alone who ſav'd a <hi>Roman</hi> call'd a Man.</l>
+                  <l>No gawdy Heir which purchas'd Honour ſate</l>
+                  <l>Inſulting o're the Legal Magiſtrate;</l>
+                  <l>Nor Glittering Knighthood ſtrutting with Renown,</l>
+                  <l>That from the Fathers well ſtuft Cheſt begun,</l>
+                  <l>By purchaſed <hi>Mandamus</hi> made his Own:</l>
+                  <l>But well Fought Victories did Fame advance,</l>
+                  <l>The Old try'd <hi>Engliſh</hi> way of Fighting <hi>France.</hi>
+                  </l>
+                  <l>And certain Valour certain Glory won,</l>
+                  <l>The honeſt Bait to Emulation.</l>
+               </lg>
+               <pb n="4" facs="tcp:199149:4"/>
+               <lg>
+                  <l>No tatter'd <hi>Hero</hi> in his Shoulder-Belt,</l>
+                  <l>In Age and Poverty his Bruiſes felt:</l>
+                  <l>By conquering Fortune ſtill acknowledg'd Brave,</l>
+                  <l>Yet go Heroick Beggars to the Grave,</l>
+                  <l>No mangl'd <hi>Cavalier</hi> at Seventy Four,</l>
+                  <l>With Fifteen Wounds obtain'd at <hi>Marſton-Moor,</hi>
+                  </l>
+                  <l>His Scars Expos'd to the Unthankfull Court,</l>
+                  <l>The Fathers Champion, and the Childrens ſport;</l>
+                  <l>Whoſe ſtranger Politicks New Syſtems had,</l>
+                  <l>And cruſht the Carkaſe to Exalt the Head;</l>
+                  <l>And ſo the Baſis of Deceit began,</l>
+                  <l>The King put on by putting off the Man.</l>
+                  <l>And that the Royal Stratagem might take,</l>
+                  <l>Heroick Paths of Luxury they make:</l>
+                  <l>New Wayes of Happineſs and Life Define,</l>
+                  <l>And ſacrifice to their almighty Wine;</l>
+                  <l>No Idol <hi>Pagod</hi> more Enchantments knew,</l>
+                  <l>Than this did firſt contrive, and that purſue:</l>
+                  <l>Nor do the Ages ſince Records were known,</l>
+                  <l>Such Standards of Refin'd Deluſion own:</l>
+                  <l>In cloſe reſolved Tyrannies purſuing,</l>
+                  <l>By different Means That one great End, our Ruine.</l>
+                  <l>While Crouds of Thoughtleſs <hi>Mob</hi> with Changeling Praiſe,</l>
+                  <l>To their great God the King did ſacrifice:</l>
+               </lg>
+               <lg>
+                  <l>Nor Hor-brain'd Zeal to Fiery <hi>Moloch</hi> paid</l>
+                  <l>Inhumane Offerings of the ſacred Seed,</l>
+                  <pb n="5" facs="tcp:199149:4"/>
+                  <l>(While hapleſs Mothers their own Breaſts deny,</l>
+                  <l>To Bribe the God with their own Progeny)</l>
+                  <l>With greater Guſt than our Addreſſors ſold</l>
+                  <l>Their Liberty for Luſt, for Flattery their Free-hold;</l>
+                  <l>With eager Violence their Charters gave,</l>
+                  <l>Bartring the ſhadow Freedom, for the ſubſtance Slave.</l>
+                  <l>And thus the new erected Fabrick throve,</l>
+                  <l>And Freedom long with dying Pangs had ſtrove,</l>
+                  <l>Till Fate diſclos'd its Reſtoration nigh,</l>
+                  <l>The Mighty Sound diſpirits Tyranny,</l>
+                  <l>So darkeſt Clouds the Morning Brightneſs flye.</l>
+                  <l>But ſtill the haughty Faction's diſcontent,</l>
+                  <l>And ſtruggle with the Chains of Government;</l>
+                  <l>Reſtraint from Ill is Freedom to the Wiſe,</l>
+                  <l>And he that parts with that will Tyrannize.</l>
+                  <l>Kings but by Agents act Illegal Power;</l>
+                  <l>No Jalour like a licens'd Priſoner.</l>
+                  <l>Who firſt his Freedom ſells, receives in Pay</l>
+                  <l>Licence to tyrannize ſome other way.</l>
+               </lg>
+               <lg>
+                  <l>He paid for this who firſt Indulg'd their Heat,</l>
+                  <l>Whoſe Guile by pious Fraud they firſt defeat;</l>
+                  <l>Men work for others, but for Themſelves they cheat.</l>
+                  <l>For when they found</l>
+                  <l>Their darling luſt Ambition he reſtrain'd,</l>
+                  <l>That <hi>Nero</hi> would be <hi>Nero</hi> by Himſelf,</l>
+                  <l>That He Engroſs'd the Power and <hi>eke</hi> the Pelf;</l>
+                  <pb n="6" facs="tcp:199149:5"/>
+                  <l>That all their Recompences were Delays,</l>
+                  <l>Or ſuch as Tyrants, always Traytors Pays;</l>
+                  <l>Then their Engag'd aſſiſtance they withdrew,</l>
+                  <l>And with their Lives New Fortunes they purſue.</l>
+                  <l>So Greedy Traytors when their Hopes decline,</l>
+                  <l>Do then their Benefactors undermine;</l>
+                  <l>So Wolves when barren Waſtes afford no Prey,</l>
+                  <l>Will one another brutiſhly deſtroy.</l>
+               </lg>
+            </div>
+            <div type="body_of_poem">
+               <pb n="7" facs="tcp:199149:5"/>
+               <head>A SATYR, &amp;c.</head>
+               <lg>
+                  <l>OF Modern <hi>Fame</hi> which hourly Pacquets bring,</l>
+                  <l>And actions born of Yeſterday, I ſing:</l>
+                  <l>No Errant Knights, but Errant Knaves I quote,</l>
+                  <l>With Preſidents enough, and none remote.</l>
+                  <l>No Forreign Liſts our Catalogue ſupplies,</l>
+                  <l>Some of our Own the <hi>French</hi> have took as Prize;</l>
+                  <l>We ſcorn Repriſals, Knaves of Forreign growth</l>
+                  <l>Are Contraband:</l>
+                  <l>Beſides, the Prohibition barrs the Trade,</l>
+                  <l>And none but Knaves of <hi>Engliſh</hi> Stamp are made;</l>
+                  <pb n="8" facs="tcp:199149:6"/>
+                  <l>And <hi>Faith</hi> the ſtock is ſo improv'd for ſale,</l>
+                  <l>The Manufacture is not like to fail.</l>
+               </lg>
+               <lg>
+                  <l>No Parallels from <hi>Hebrew</hi> times I take,</l>
+                  <l>And leave the Jingling Simily to ſpeak;</l>
+                  <l>Who faithful Balm to <hi>Englands</hi> Wounds applyes,</l>
+                  <l>The Danger ſhows before the Remedies:</l>
+                  <l>Some Harmony with <hi>Hebrew</hi> Times may be,</l>
+                  <l>In ſome things differ, and in ſome agree.</l>
+                  <l>The chiming Parallel runs counter more,</l>
+                  <l>On all the different ſteps than is agreed before.</l>
+               </lg>
+               <lg>
+                  <l>The ſacred Tribes with Heaven it ſelf conven'd,</l>
+                  <l>And thundring ſounds the dreadfull Law rehears'd;</l>
+                  <l>Immediate Dictates their Records began,</l>
+                  <l>Carryed by Voice, and conſtant Viſion on;</l>
+                  <l>Humane Debates obey'd the heavenly Mode,</l>
+                  <l>And all their Statutes were the Laws of God;</l>
+                  <l>
+                     <hi>Long Names</hi> and <hi>Pedigrees</hi> did only tell,</l>
+                  <l>The Hero was the ſeed of <hi>Iſrael:</hi>
+                  </l>
+                  <l>For different Tribes no different Honour gave,</l>
+                  <l>But onely Mark't the <hi>Hebrew</hi> from the ſlave;</l>
+                  <pb n="9" facs="tcp:199149:6"/>
+                  <l>By <hi>Jus Divinum</hi> of the Heavenly Call,</l>
+                  <l>The ſon of <hi>Jeſſe,</hi> not the ſon of <hi>Said,</hi>
+                  </l>
+                  <l>The Regal Dignity at <hi>Hebron</hi> took,</l>
+                  <l>And all the Tribes the Royal Line forſook.</l>
+                  <l>The ſacred Oyl was now as loud a Call,</l>
+                  <l>As when their Teams were threaten'd by King <hi>Saul:</hi>
+                  </l>
+                  <l>No <hi>Levite</hi> durſt in canting phraſe diſſent,</l>
+                  <l>Nor levy Warr with dint of Argument:</l>
+                  <l>Nor did with <hi>David</hi> any Prieſt abide,</l>
+                  <l>Whoſe Dormant Faith attended for the ſtrong'ſt ſide:</l>
+                  <l>Even <hi>Samuel</hi> a due Obedience paid</l>
+                  <l>Unto the Monarch he himſelf had made;</l>
+                  <l>Proportion'd Grandure for himſelf declin'd,</l>
+                  <l>To his proper work the Ark, and Sacrifice confin'd:</l>
+                  <l>No Titles rais'd, nor Haughty Pallace fram'd,</l>
+                  <l>But ſtill was poor, and ſtill was <hi>Samuel</hi> nam'd;</l>
+                  <l>The Altar ſerv'd, a linnen Ephod wore,</l>
+                  <l>Was ſtill as Meek, and Humble, as before;</l>
+                  <l>Retyr'd from Court, in reverend Veſts array'd,</l>
+                  <l>To <hi>Iſrael</hi>'s God, for <hi>Iſraels</hi> King he pray'd:</l>
+                  <l>Ah had the ſacred Tribe his ſteps purſued,</l>
+                  <l>What Years' of peace to <hi>Iſrael</hi> had enſued?</l>
+                  <pb n="10" facs="tcp:199149:7"/>
+                  <l>How had our Flouriſhing Iſle glad Hours enjoy'd,</l>
+                  <l>For calmer Joys, and Nobler actions made?</l>
+                  <l>While their dark Councils now Embroyl the State,</l>
+                  <l>Our Feuds encreaſe, and Vengeance antedate;</l>
+                  <l>And their unpractis'd Hands exempt from Warr,</l>
+                  <l>Do all the profits of Confuſion ſhare.</l>
+                  <l>Fatal their skill, too undiſcern'd the Fraud,</l>
+                  <l>While paſſive Zealots their Harangues applaud;</l>
+                  <l>Their Dictates ſwallow, and at <hi>Jehu</hi>'s Rate,</l>
+                  <l>Swiftly drive on with theſe <hi>black Guards</hi> of State;</l>
+                  <l>A nameleſs Hydra Crow'd with <hi>Janus</hi> Face,</l>
+                  <l>That whiſper Civil Fewds, and cry for peace.</l>
+                  <l>Domeſtick Heroes, whoſe Dragooning Hands</l>
+                  <l>Seek out no Forreign Wars, while they can plunder Friends.</l>
+                  <l>
+                     <hi>Inſpire me Jove,</hi> with thunder arm my Pen,</l>
+                  <l>To laſh the Manners, and deſcribe the Men.</l>
+                  <l>How their lov'd Tyrant they at firſt ador'd,</l>
+                  <l>And hugg'd the Romiſh Fopperies he reſtor'd;</l>
+                  <l>How their reciprocal Contrivance met,</l>
+                  <l>And <hi>Mighty Injury</hi> upheld the State:</l>
+                  <l>How the loud Echoing Theatre the Church,</l>
+                  <l>Burleſque their God, and ſacred Theams debauch,</l>
+                  <pb n="11" facs="tcp:199149:7"/>
+                  <l>Loud thanks return for th' Monſter they had made;</l>
+                  <l>A <hi>Proteſtant</hi> Body with a <hi>Popiſh</hi> Head:</l>
+                  <l>With humble prayers that Chriſt would now permit</l>
+                  <l>That <hi>Antichriſt</hi> ſhould take his ſacred Seat;</l>
+                  <l>The Body govern, and the Members keep,</l>
+                  <l>So Wolves protected the Unarmed Sheep.</l>
+                  <l>Their <hi>loud Addreſſes</hi> ſanctifie the Fraud,</l>
+                  <l>And his <hi>Almighty Violence</hi> applaud:</l>
+                  <l>Prompt him to Miſchiefs with upraiſed Note,</l>
+                  <l>As Right, and Wrong, had been their own by Vote.</l>
+                  <l>Vow'd that if ever he his Fate ſhould try,</l>
+                  <l>With <hi>Life and Fortune</hi> they would all ſtand by,</l>
+                  <l>So afterwards they did at <hi>Salisbury:</hi>
+                  </l>
+                  <l>Nor Murmur'd they untill Diſpenſing Art,</l>
+                  <l>Their well-belov'd Ambition had cut ſhort:</l>
+                  <l>But Early <note n="*" place="margin">The <hi>Car<g ref="char:EOLhyphen"/>liſle</hi> Ad<g ref="char:EOLhyphen"/>dreſs.</note> 
+                     <hi>Thanks</hi> for ſtanding Armies gave,</l>
+                  <l>And ſhouted home the glorious Charter <hi>Slave:</hi>
+                  </l>
+                  <l>With Muſhrome Joy themſelves Themſelves deceiv'd,</l>
+                  <l>And thank their God for what they ne're <note n="†" place="margin">Pr. of <hi>Wales.</hi>
+                     </note> Believ'd.</l>
+                  <l>Triumphant Flames in Hypocritick Scorn,</l>
+                  <l>A ſecond time do <hi>London</hi>'s <note n="*" place="margin">Fire<g ref="char:EOLhyphen"/>works.</note> Trophies Burn,</l>
+                  <l>While Injur'd Heaven does Flaſh for Flaſh return.</l>
+                  <pb n="12" facs="tcp:199149:8"/>
+                  <l>Yet theſe the ſame who when his Fame decreas't,</l>
+                  <l>And all his borrow'd Gloryes Overcaſt;</l>
+                  <l>Are found Caballing, and in ſhort Debate,</l>
+                  <l>Quitting his Fortunes to avoid his Fate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Naſſovian</hi> Juſtice Tyranny ſuppreſt,</l>
+                  <l>The wearied Land for ſome few dayes had reſt;</l>
+                  <l>Ah few they were indeed, but very few,</l>
+                  <l>Till Diſcontent our former Feuds renew;</l>
+                  <l>And did King <hi>Jeſus</hi> Reign they'd murmur too.</l>
+                  <l>Some ſmaller aids to our new Joys they lent,</l>
+                  <l>And feign'd to ſmile when they could not prevent</l>
+                  <l>But bauk'd of Lawleſs power as once to Reign,</l>
+                  <l>At their own <hi>aukward</hi> Jeſt they firſt repine;</l>
+                  <l>At Government with paſſive Fury rail,</l>
+                  <l>And their forſaken <hi>Idol</hi> now bewail:</l>
+                  <l>His hopefull Voyage to <hi>Iriſh</hi> Boggs they ſing,</l>
+                  <l>And his Almighty thouſands hither bring:</l>
+                  <l>From Month to Month his Numerous Hoſts they ſhow,</l>
+                  <l>How oft has <hi>England</hi> been Invaded ſo!</l>
+                  <l>Of his great Deeds they threatn'd, and of their own,</l>
+                  <l>And talk'd of Fights, but always talk'd at Home.</l>
+               </lg>
+               <pb n="13" facs="tcp:199149:8"/>
+               <lg>
+                  <l>So Great <hi>D—s</hi> the Royal Fortreſs mann'd,</l>
+                  <l>How oft he ſwore, how oft the Prince he Damn'd:</l>
+                  <l>With many a Battering Curſe, and many a Gun;</l>
+                  <l>Still as he run he curſt, and as he curſt he run.</l>
+                  <l>His willing Bands with wondrous Courage broke,</l>
+                  <l>Nor fought he for his Monarchs Cauſe a ſtroke;</l>
+                  <l>But fled e're yet the diſtant Troops appear,</l>
+                  <l>Ah! had his Guilt been leſs, ſo had his Fear.</l>
+               </lg>
+               <lg>
+                  <l>And now for Twins in craft obſerve the Men,</l>
+                  <l>Who early for the Princes Cauſe began:</l>
+                  <l>The <hi>Poſſe</hi> rais'd, and with united bands,</l>
+                  <l>In Fraud, and in Ambition too ſhook hands;</l>
+                  <l>For Hoſtages their Noble Pledges gave,</l>
+                  <l>There needs no arts to keep him true that's Brave;</l>
+                  <l>Once with our Hate ſucceſsfully they ſtrove,</l>
+                  <l>Screen'd by their Vices, and their Maſters Love;</l>
+                  <l>Bloted by Pride, as they had oft been told,</l>
+                  <l>By their own Braſs, and by the Kingdoms Gold:</l>
+                  <l>Their early Dictates of Tyrannick Sway,</l>
+                  <l>When we the King, the King did them Obey,</l>
+                  <pb n="14" facs="tcp:199149:9"/>
+                  <l>They ſtill maintain, nor can they ſoon forget,</l>
+                  <l>To cruſh the Subject, and Embroyle the State;</l>
+                  <l>New fears of unborn Factions do infuſe,</l>
+                  <l>And thread-bare cryes of <hi>Forty One</hi> renews.</l>
+                  <l>Accuſtom'd to be Jealous even of Light,</l>
+                  <l>When formidable Nothings did affright;</l>
+                  <l>Vouch that the Votes that <hi>William</hi>'s Scepter gave,</l>
+                  <l>Made him a King, a Commonwealth to have.</l>
+                  <l>That thoſe are fitteſt to direct his Rule,</l>
+                  <l>Who meant him that unthinking thing a Tool;</l>
+                  <l>Unfettered at his hazard, not their own,</l>
+                  <l>Would pay the <hi>Switzer</hi> off, and Reign alone:</l>
+                  <l>And now in cloſeſt Councils they preſide,</l>
+                  <l>With Friend, and Foe, an equal ſpoil divide:</l>
+                  <l>With double aſpect, ſeek their ſingle Ends,</l>
+                  <l>Aiding King <hi>William</hi> with King <hi>James</hi> his Friends;</l>
+                  <l>To neither true, but hold the Poiſe at home,</l>
+                  <l>That both may humble Clients be to great King <hi>T—.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And now the Church that ſacred Vizor's on,</l>
+                  <l>And <hi>Rome</hi> begins to pull down <hi>Babylon:</hi>
+                  </l>
+                  <l>Dragooning's ceas'd, and Paſſive Laws declare,</l>
+                  <l>They wait to ſee the Iſſue of the War.</l>
+                  <pb n="17" facs="tcp:199149:9"/>
+                  <l>Too well the ſubtil Stateſman knew the Tribe,</l>
+                  <l>To tamper till he found the Soveraign Bribe,</l>
+                  <l>Too well he knew they could not long withſtand</l>
+                  <l>A trifling Oath.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>De Facto</hi> now at one Diſtinction gain'd</l>
+                  <l>The Militant thouſands of the Sacred Train,</l>
+                  <l>Who long with ſtarving hopes withſtood in vain.</l>
+                  <l>Four Golden Candleſticks compoſe the Van,</l>
+                  <l>With all their Perſecution glories on.</l>
+                  <l>The ſame that in the fiery Furnace trod,</l>
+                  <l>For Sons o'th' Church are all the Sons of God.</l>
+               </lg>
+               <lg>
+                  <l>A fifth nor Clergy, nor the Laity own,</l>
+                  <l>Was Souldier, Biſhop, Lord, and Puritan.</l>
+                  <l>Blew Cloak, or Caſſock, Troop, or Convocation,</l>
+                  <l>And thus he tryes his skill upon the Nation.</l>
+                  <l>In Grand Proceſſion thus he views the Liſts,</l>
+                  <l>His Squadron full four hundred booted Prieſts;</l>
+                  <l>The black Brigade thus for their Church appear'd,</l>
+                  <l>And horrid cryes for <hi>Abdy, Harvy,</hi> rear'd:</l>
+                  <l>With Notions ſcar'd, and their own Guilt ſubdued,</l>
+                  <l>So once before they fled when none purſued;</l>
+                  <pb facs="tcp:199149:10"/>
+                  <l>But when the terror of the Church begun,</l>
+                  <l>And Citts in Troops of <hi>Blew-Coat-Whiggs</hi> came on;</l>
+                  <l>The Martial Zealot in his Cope uprears,</l>
+                  <l>To the Royal Petticoats his Chriſtian Prayers:</l>
+                  <l>And for Disbanding Grace made his Oriſons,</l>
+                  <l>Which like his Graces Repartees were wiſe Ones.</l>
+               </lg>
+               <lg>
+                  <l>One purchas'd Prieſt, whoſe pay did not miſcarry,</l>
+                  <l>A very Prieſt, for very Mercenary;</l>
+                  <l>Conſcious of his too tottering Faith, and knew</l>
+                  <l>That if he took but one, ſhould perjure two;</l>
+                  <l>In Conſcience ſaid hee'd never break them both,</l>
+                  <l>And ſwore, by God, he would not take the Oath.</l>
+               </lg>
+               <lg>
+                  <l>But now the gawdy Nicety's in vain,</l>
+                  <l>
+                     <hi>De Facto</hi> Swearers with <hi>De Jure</hi> joyn.</l>
+                  <l>Sworn and unſworn, one common Cauſe promote,</l>
+                  <l>And private Fewds for publick good forgot;</l>
+                  <l>While Doctor <hi>Sherlock</hi> now the Church harangu'd,</l>
+                  <l>With that ſame Topick <hi>Cook</hi> had try'd and hang'd.</l>
+                  <l>The Honeſt <hi>Levites</hi> who are poor and few,</l>
+                  <l>As they may well be poor who dare be true;</l>
+                  <pb n="17" facs="tcp:199149:10"/>
+                  <l>With words they wheedle ſome, with Gold as many,</l>
+                  <l>For Prieſts were always to be bought for mony.</l>
+               </lg>
+               <lg>
+                  <l>Room for a Regiment of Bigott Citts,</l>
+                  <l>Who lately loſt, and lately found their Wits;</l>
+                  <l>By wondrous Fate with <note n="*" place="margin">I don't <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>an the Lieutenancy.</note> forfeit Favours grac'd,</l>
+                  <l>By Mighty <hi>T—m</hi>'s Almighty Magick plac'd:</l>
+                  <l>View them in Arms when our invaded Coaſt,</l>
+                  <l>Some glittering hopes propos'd that all was loſt;</l>
+                  <l>How their advanc'd Battalion's did appear,</l>
+                  <l>To fight the Men appointed to come here.</l>
+               </lg>
+               <lg>
+                  <l>Sir <hi>W—m</hi> that in Martial Robes did ſhine,</l>
+                  <l>And Reaſon good indeed, began the Line;</l>
+                  <l>With many a Rank of Tory Buff and Feather,</l>
+                  <l>That's now Reſtor'd, and gone the Lord knows whither;</l>
+                  <l>To keep the Peace Precedency's did grant,</l>
+                  <l>And here, (if not at home) he's Commandant;</l>
+                  <l>Tho might he chooſe Commands, 't would be agen</l>
+                  <l>Ten thouſand Guinea's, not ten thouſand Men:</l>
+                  <l>Ah! <hi>Tom Papillion,</hi> 'twas a ſlippery trick,</l>
+                  <l>To bilk the Mayor, and then to <hi>Holland</hi> ſneak:</l>
+                  <pb n="18" facs="tcp:199149:11"/>
+                  <l>See now the Martial Magiſtrate from far,</l>
+                  <l>With all his dreadful Equipage of War;</l>
+                  <l>Three <hi>equal Halves</hi> compoſe his ſtately Meen,</l>
+                  <l>Half Lord, half Souldier, half a Gentleman.</l>
+                  <l>And three as equal Dividends make out,</l>
+                  <l>The gawdy ſtyles of his Pedantick Rout.</l>
+                  <l>True City Champions, tumults to appeaſe,</l>
+                  <l>And wiſh't for Conventicling Trophies raiſe:</l>
+                  <l>As Taylors, Porters, Prentices, become</l>
+                  <l>Half drunk, half ſober, and a half run home.</l>
+               </lg>
+               <lg>
+                  <l>Sir <hi>P—r</hi> next had Primitive command,</l>
+                  <l>Compleatly fix't, had but his Boots come on,</l>
+                  <l>A Campaign <hi>Phys,</hi> and as it came to paſs,</l>
+                  <l>As much a Souldier, and as much an Aſs:</l>
+                  <l>In different ſtyles his numerous Titles ran,</l>
+                  <l>Was Hangman, Collonel, and Chamberlain;</l>
+                  <l>Synonimous to that Miraculous ſtore,</l>
+                  <l>Was very Rich, and alſo very Poor.</l>
+                  <l>In later times he learnt to Domineer,</l>
+                  <l>And now moſt accurately ſwaggers here:</l>
+                  <pb n="19" facs="tcp:199149:11"/>
+                  <l>His Favourites now his dear bought Trophies ſing,</l>
+                  <l>And he ſues for ſpeaking Treaſon like a King:</l>
+                  <l>Enrich't with luſty Verdict from the <note n="*" place="margin">Suing <hi>Bellamy</hi> for words, &amp; had two Marks Damma<g ref="char:EOLhyphen"/>ges.</note> Aſſize,</l>
+                  <l>Who at two Marks his over-valued Honour prize.</l>
+               </lg>
+               <lg>
+                  <l>A third, and fourth, to fill the Cavalcade,</l>
+                  <l>With match't Battallions meet on the Parade;</l>
+                  <l>For equal Falſhood, equal Fate befell,</l>
+                  <l>This dub'd a Knight, and that a Collonel.</l>
+                  <l>A fifth and ſixth, with many a ſubaltern,</l>
+                  <l>Went out with Fools, and juſt as wiſe return.</l>
+                  <l>But his Condition juſtly we condole,</l>
+                  <l>For pity is a Tribute to a Fool;</l>
+                  <l>Who firſt diſmounted in the hot diſpute,</l>
+                  <l>Went out on Horſeback, and came home on Foot;</l>
+                  <l>The unhappy ſhot diſtinguiſh't to a Jeſt,</l>
+                  <l>Pick't out the Animal, and ſpar'd the Beaſt:</l>
+                  <l>Tho' ſome affirm the truth did not appear,</l>
+                  <l>Till he had firſt be—t himſelf for Fear;</l>
+                  <l>Nor with the fright did his Misfortune end,</l>
+                  <l>But firſt his brother Beaſt condol'd, and next his Friend:</l>
+                  <pb n="20" facs="tcp:199149:12"/>
+                  <l>So once the Woodman to the Man of God,</l>
+                  <l>When the loſt Ax ſunk in the Neighbouring Flood,</l>
+                  <l>Alas 'twas borrowed.</l>
+               </lg>
+               <lg>
+                  <l>And thus the Knights with City Diſcipline,</l>
+                  <l>Martch't to <hi>High Park</hi> indeed to ſee the Queen.</l>
+                  <l>So once the <hi>French</hi> with Forty thouſand Men,</l>
+                  <l>Went up the Hill, and ſo came down agen:</l>
+                  <l>So once King <hi>James</hi> his Squadrons did delude-a,</l>
+                  <l>By ſtorming <hi>Hounſlow</hi> Heath inſtead of <hi>Buda:</hi>
+                  </l>
+                  <l>Had you the Baggage of the Hoſt but view'd,</l>
+                  <l>Beſides the running Campers that purſued:</l>
+                  <l>Had you beheld the Stores, the Magazine,</l>
+                  <l>The Bread, the Cheeſe, the Bottles, and the Wine,</l>
+                  <l>You would have ſwore 't had been a <hi>Scotch</hi> Campaign;</l>
+                  <l>That barren Highlands their fateagues ſhould know,</l>
+                  <l>Where neither they could reap, nor others ſow:</l>
+                  <l>Or that <hi>Montroſs</hi>'s Marches they ſhould take,</l>
+                  <l>With fifty days Proviſion at his back.</l>
+                  <l>And now the Queen advances to the view,</l>
+                  <l>Lord! how the ready Troops in order ſhew,</l>
+                  <pb n="21" facs="tcp:199149:12"/>
+                  <l>No more a Figure, their now diſſolved Files,</l>
+                  <l>And one great Throng the well fix't Line compiles;</l>
+                  <l>To let the Queen their Annual poſtures know</l>
+                  <l>At their more regular Figure, <hi>Lord-Mayors-Show.</hi>
+                  </l>
+                  <l>And now the Royal Chariot's ſhouted home,</l>
+                  <l>By that Almighty Monſter Captain <hi>Tom:</hi>
+                  </l>
+                  <l>Whoſe ecchoing ſhouts when ſhe no more can hear,</l>
+                  <l>Their Pot-gun Volleys charge Her Royal Ear;</l>
+                  <l>Whoſe regular noiſe, had ſhe not known how tame,</l>
+                  <l>How unprepar'd, and how reſolv'd they came:</l>
+                  <l>Some dreadful ſcambling combate did preſent,</l>
+                  <l>Alike confus'd, thô different in event:</l>
+                  <l>And who knows what that day might have produc'd,</l>
+                  <l>By Wine and Martial Gallantry ſeduc'd;</l>
+                  <l>Had not the Wiſer Sex their Votes deny'd,</l>
+                  <l>As to the <hi>Bagg of Bullets</hi> by the ſide.</l>
+                  <l>Wiſely the advent'rous Wife her preſence gave,</l>
+                  <l>To calm with Frowns, the Fop ſhe came to ſave;</l>
+                  <l>A Whip's a proper weapon for a Slave,</l>
+                  <l>So once <hi>Sclavonian</hi> Maſters did attack,</l>
+                  <l>When conquering Slaves came in Rebellion back.</l>
+               </lg>
+               <pb n="22" facs="tcp:199149:13"/>
+               <lg>
+                  <l>And thus the Royal Muſter did conclude,</l>
+                  <l>And the Hoſt diſſolv'd into a multitude;</l>
+                  <l>Meer <hi>Mob</hi> the Matter, Army was the Form,</l>
+                  <l>So Bees go out a Troop, come back a Swarm.</l>
+                  <l>So well compoſed Vapours repreſent</l>
+                  <l>Ships, Armies, Battails, in the Firmament;</l>
+                  <l>'Till ſteady Eyes the Exhalation ſolves,</l>
+                  <l>And all to its firſt matter Cloud diſſolves.</l>
+               </lg>
+               <lg>
+                  <l>Mean while the Martial Terrors of the Field,</l>
+                  <l>The threatned Whiggs with juſt Diſdain beheld;</l>
+                  <l>The unwieldy Monſter they at once defie,</l>
+                  <l>And in their Monarchs Cares do Peace enjoy;</l>
+                  <l>Their joyful Aids to his ſupport lay down,</l>
+                  <l>And thankfully his happy Influence own;</l>
+                  <l>Their hearty thouſands his Exchequer knows,</l>
+                  <l>And ready Loans their Preſs'd Obedience ſhows;</l>
+                  <l>No falſe Harangues of late addreſſing Age,</l>
+                  <l>But thus their <hi>Lives</hi> and <hi>Fortunes</hi> they engage;</l>
+                  <l>An active Loyalty their Princeſs ſees,</l>
+                  <l>To purpoſe ſhown, and in Extremities:</l>
+                  <pb n="23" facs="tcp:199149:13"/>
+                  <l>Words are an empty Loyalty at beſt,</l>
+                  <l>And cheaply paid, Occaſion is the Teſt;</l>
+                  <l>So found too late their Abdicated <hi>James,</hi>
+                  </l>
+                  <l>And ſo our Naval Management Proclaims.</l>
+                  <l>Nor do we Laurels to his Temples bring,</l>
+                  <l>Or conquering <hi>William</hi>'s dear bought Triumphs ſing</l>
+                  <l>With greater Joy, than with regret we ſee</l>
+                  <l>His Cauſe (for his is ours) Betray'd at Sea:</l>
+                  <l>So while th' accurſed thing i'th' Camp remain'd,</l>
+                  <l>Were <hi>Iſrael</hi>'s Tents with <hi>Iſrael</hi>'s ſlaughters ſtain'd.</l>
+                  <l>Not ſo the Hero's our Deſign diſplayes,</l>
+                  <l>Whoſe awkward Grin their treacherous Joy betrayes.</l>
+               </lg>
+               <lg>
+                  <l>Ungrateful Smiles their envious hopes declare,</l>
+                  <l>And ſtyle the Invaſion a Familiar War.</l>
+                  <l>Their horrid Jeſts on <hi>Engliſh</hi> Fears they make,</l>
+                  <l>And wild Delights in hop'd Revenge do take:</l>
+                  <l>Boaſt of our Loſſes with exalted Voice,</l>
+                  <l>And at their Countreys Infamy rejoyce.</l>
+                  <l>With uncouth Joy the well known Story told,</l>
+                  <l>How an Invaſion's bought, and <hi>England</hi> ſold;</l>
+                  <pb n="24" facs="tcp:199149:14"/>
+                  <l>And how exact the deep Intreague is laid,</l>
+                  <l>The <hi>Dutch</hi> be ſacrific'd, and we betray'd.</l>
+               </lg>
+               <lg>
+                  <l>'Twas like a Prieſt, when of the Sacred Tribe,</l>
+                  <l>One in his bloated Hopes their Plots deſcribe:</l>
+                  <l>Our Plot! ſaid he, and paus'd, to let you know</l>
+                  <l>To whom your Hopes, to whom your Thanks you owe,</l>
+                  <l>'s So deep, ſo well contriv'd, ſuch Actors in't,</l>
+                  <l>The Devil perhaps may know't, but can't prevent.</l>
+                  <l>But when the Mob the Reverend Author took,</l>
+                  <l>How like his <note n="*" place="margin">
+                        <hi>Roger</hi> when <gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ook and car<g ref="char:EOLhyphen"/>ried to <hi>Guild-Hall.</hi>
+                     </note> Guide did paſſive <hi>Clerus</hi> look;</l>
+                  <l>How more confus'd, if Impudence can bluſh,</l>
+                  <l>When ſarch't for boaſted Plots!</l>
+                  <l>The Prieſt, as Prieſts are wont, deceiv'd the throng,</l>
+                  <l>And lookt for <note n="*" place="margin">A Par<g ref="char:EOLhyphen"/>ſon taken at <hi>Grave</hi>'s Coffee-Houſe.</note> Treaſon's prov'd a Bawdy Song,</l>
+                  <l>And thus the <hi>Gallick Victories</hi> they declar'd,</l>
+                  <l>Even before the haſtening Fact appear'd:</l>
+                  <l>Boaſting their ſhame, and hugg'd themſelves to find</l>
+                  <l>Their <hi>Iſrael,</hi> their own <hi>Iſrael</hi> flee before the <hi>Philiſtine:</hi>
+                  </l>
+                  <l>Juſt then when ſinking Horror did ſurround,</l>
+                  <l>And preſent Fears our abſent Hopes confound;</l>
+                  <pb n="25" facs="tcp:199149:14"/>
+                  <l>The wondrous Trump his <note n="*" place="margin">Bo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ne<g ref="char:punc">▪</g>
+                     </note> Conqueſt ſounded o're,</l>
+                  <l>So once his Aſpect ſav'd the Land before.</l>
+                  <l>Moments of time the vaſt occaſion hit,</l>
+                  <l>To thoſe ſurprizing, and to theſe compleat:</l>
+                  <l>Had the great deed exactly tim'd by Fate,</l>
+                  <l>One weighty juncture ſlipt, 't had come too late;</l>
+                  <l>Had he not fought, or had it not been then,</l>
+                  <l>Thô he had conquer'd, it had been in vain.</l>
+                  <l>So Mighty <hi>Naſſau,</hi> ſo did Heaven contrive,</l>
+                  <l>That thy Great hand ſhould twice the Nation ſave.</l>
+               </lg>
+               <lg>
+                  <l>See now the <hi>Hydra-Faction</hi> of the Town,</l>
+                  <l>
+                     <hi>Cry Hail,</hi> and bend with aukward Couchees to the Throne;</l>
+                  <l>The Cauſe diſown, and cowardly <hi>Nero</hi> curſe,</l>
+                  <l>Not that he did no better, but no worſe:</l>
+                  <l>Ah! were they true to their adopted Cauſe,</l>
+                  <l>There's far more danger in their Tongues than Claws.</l>
+                  <l>For now with fatal Induſtry they drive,</l>
+                  <l>And unto one paſt Plot two more contrive;</l>
+                  <pb n="26" facs="tcp:199149:15"/>
+                  <l>Nor grudge to periſh in the ſtorm they raiſe,</l>
+                  <l>So their laſt fall their Country but betrayes:</l>
+                  <l>So ſwift are Men to deſperate Ills deſign'd,</l>
+                  <l>To ill ſpontaneous, and in good confin'd.</l>
+                  <l>A proof the evil Principle is firſt,</l>
+                  <l>And Guilt has all the Power to Will engroſs'd.</l>
+               </lg>
+               <lg>
+                  <l>View next the laſt Fateague of New-born hope,</l>
+                  <l>To ſink their fears, and empty Comforts prop,</l>
+                  <l>Exactly laid, but <note n="*" place="margin">The Words of the Letter to K. <hi>James,</hi> taken with Lord <hi>Preſton.</hi>
+                     </note> 
+                     <hi>God knows how let drop.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In ſuppliant Poſtures now to Court they go.</l>
+                  <l>And they who once <hi>abhorr'd,</hi> Petition now.</l>
+                  <l>Nor are the Rout of leſs ſuppos'd eſteem,</l>
+                  <l>Than ſix ſcore repreſenting Perſons ſeem:</l>
+                  <l>Captains of thouſands, mighty Men of Valour,</l>
+                  <l>From ſilly <hi>Will,</hi> to Captain <hi>Tom the Taylor;</hi>
+                  </l>
+                  <l>In Mood and Figure to the Houſe made way,</l>
+                  <l>To beg their Prentices a Holy day.</l>
+                  <pb n="27" facs="tcp:199149:15"/>
+                  <l>And made a moſt unconſcionable Prayer,</l>
+                  <l>That they might have no Aldermen, nor Mayor:</l>
+                  <l>But that the City as in ancient <hi>Troy,</hi>
+                  </l>
+                  <l>One General Revel-Jubilee might enjoy;</l>
+                  <l>That <hi>Bedlam, Newgate, Counters,</hi> and <hi>Bridewell,</hi>
+                  </l>
+                  <l>Might with the <hi>Common-C—il</hi> now Rebell;</l>
+                  <l>That <hi>Tower</hi> Ditches might exclude the <hi>Thames,</hi>
+                  </l>
+                  <l>And Royal <hi>Naſſau</hi> truckle to King <hi>James:</hi>
+                  </l>
+                  <l>And that your poor Petitioners may be eas'd,</l>
+                  <l>And have a Mayor, or no Mayor, as they pleas'd;</l>
+                  <l>Remonſtrating that what they did reſtore,</l>
+                  <l>Had more reſtrain'd them than they were before;</l>
+                  <l>'Twas not their loathſome Priviledges they ſought,</l>
+                  <l>But freedom to do ill.</l>
+                  <l>Give them their ancient Priviledges agen,</l>
+                  <l>When they could plunder and deſtroy like Men:</l>
+                  <l>The luſcious Garlick of the former Reigns,</l>
+                  <l>And pin not Freemen up with Poſts and Chains:</l>
+                  <l>When threatning Baſtions at the <hi>Tower</hi> begun,</l>
+                  <l>And <hi>Guild-Hall</hi> Gate became a Garriſon.</l>
+                  <l>When Charters were the Teſt, and Kings did know</l>
+                  <l>What they durſt ask, the Subject durſt beſtow:</l>
+                  <pb n="28" facs="tcp:199149:16"/>
+                  <l>When truſty Patriots bought Mechanick ſway,</l>
+                  <l>Begg'd for Illegal Orders to obey,</l>
+                  <l>And Compliment their Liberty's away;</l>
+                  <l>Whoſe <note n="*" place="margin">
+                        <hi>Pickering</hi> that begg'd to have his Companies Charter taken away, and deli<g ref="char:EOLhyphen"/>vered it with his own hand.</note> ſwifter Grant his cravings did defeat,</l>
+                  <l>And Tyranny it ſelf anticipate.</l>
+               </lg>
+               <lg>
+                  <l>A new Sir <hi>Will.</hi> this ſecond March begun,</l>
+                  <l>And brought his <hi>Blunderbuſs,</hi> but left his Gun.</l>
+                  <l>'Twas thought the King beſtow'd his Spurs in ſpight,</l>
+                  <l>And ſpoild a Captain to compoſe a Knight;</l>
+                  <l>In Whigg-Plot days have you not ſeen the <hi>Beau,</hi>
+                  </l>
+                  <l>With Martial Bagpipe to the Main Guard go;</l>
+                  <l>With many a Blunderbuſs, and Muſquetoon,</l>
+                  <l>Compleatly arm'd, with Cane, and Pantaloon:</l>
+                  <l>Equip't with his Hereditary Pride,</l>
+                  <l>And his Inheritance of Brains beſide:</l>
+                  <l>Nature has wiſely blazon'd on his Face,</l>
+                  <l>The Eſcutcheon of his Family, an Aſs:</l>
+                  <l>From ear to ear the Mantling does extend,</l>
+                  <l>
+                     <hi>Creſte'd</hi> to ſhow the Goat's the Aſſes Friend;</l>
+                  <l>Accoſtom'd to Command, he rais'd in pity</l>
+                  <l>This Independant Troop to ſerve the City:</l>
+                  <pb n="29" facs="tcp:199149:16"/>
+                  <l>And wiſely does remonſtrate to the Houſe,</l>
+                  <l>How much his Zeal before his Knowledge goes;</l>
+                  <l>And how he had improv'd his time at School,</l>
+                  <l>Was now a well accompliſh'd Captain Fool,</l>
+                  <l>A weighty Blockhead, with an empty Scull.</l>
+               </lg>
+               <lg>
+                  <l>Next him Sir <hi>Ralph,</hi> in his due order ſtood,</l>
+                  <l>A very <hi>Ralph,</hi> a very piece of Wood:</l>
+                  <l>By art they ſay his Timber does excell,</l>
+                  <l>An artificial ſtroke may poliſh Hell:</l>
+                  <l>Some hid accompliſhments he may contain,</l>
+                  <l>That do for Speculation ſtill remain;</l>
+                  <l>Or to be known; when th' art to underſtand,</l>
+                  <l>Without the drudgery of ſpeaking's gain'd,</l>
+                  <l>At preſent if we judge by what is known,</l>
+                  <l>As to the ſpecies of a Fool, he 's one.</l>
+               </lg>
+               <lg>
+                  <l>Alas <hi>Tom Durfey</hi> thou haſt fallen <hi>Short,</hi>
+                  </l>
+                  <l>And now <note n="*" place="margin">
+                        <hi>New Rappare<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s,</hi> pag. 6.</note> 
+                     <hi>Drugeſtus</hi> ſhall excuſe thee for't,</l>
+                  <l>For he had elſe come next to make us ſport;</l>
+                  <l>With Ruby Face, and old abhorring Noſe,</l>
+                  <l>So Copper mix'd with Stone, does Braſs compoſe.</l>
+               </lg>
+               <pb n="30" facs="tcp:199149:17"/>
+               <lg>
+                  <l>Next Couſin <hi>Will,</hi> with <hi>wither'd</hi> Face and Foot,</l>
+                  <l>In his Addreſſing Slippers hobbl'd to't,</l>
+                  <l>With aukward <hi>Phys,</hi> and a Petitioning Band,</l>
+                  <l>Recants Abhorring now, to heal the Land:</l>
+                  <l>With many a ſigh the Danger repreſents,</l>
+                  <l>And now like <hi>Pen,</hi> the Brother Stateſman cants;</l>
+                  <l>Had he a Linnen Ephod from the Stall,</l>
+                  <l>On's head a <hi>neighbouring Sign,</hi> he'd be a Cardinal:</l>
+                  <l>Were I King <hi>James,</hi> I'de ſend for him to <hi>France,</hi>
+                  </l>
+                  <l>And to a real <hi>Hat</hi> the Tool advance.</l>
+                  <l>Who knows when once become <hi>His Eminence,</hi>
+                  </l>
+                  <l>He may be fitter for an <note n="*" place="margin">His Blunder at the Barr of the Houſe.</note> 
+                     <hi>Evidence;</hi>
+                  </l>
+                  <l>Beſides ſome change attends him that he knows,</l>
+                  <l>Inform'd by his prognoſticating Toes.</l>
+               </lg>
+               <lg>
+                  <l>Now if you'd hear ſome Loyal City Farce,</l>
+                  <l>Hear <hi>Bed—d,</hi> hee'l bid you kiſs his Ar—</l>
+                  <l>Nor Shrieffs, nor Mayor, nor Common Halls excus'd,</l>
+                  <l>But his Poſteriors are alike expos'd:</l>
+                  <l>Nay, if <hi>Bow</hi> Bells for Whiggiſh Joys are rung,</l>
+                  <l>The jangling Mettal muſt ſalute his Bung;</l>
+                  <pb n="31" facs="tcp:199149:17"/>
+                  <l>The Parliament he hopes will hear him now,</l>
+                  <l>If not his common Compliment they know.</l>
+               </lg>
+               <lg>
+                  <l>Some of the ſort have Crimes are Capital,</l>
+                  <l>On whom their Brothers Blood do's Vengeance call;</l>
+                  <l>Tender of theſe, we ſay to <hi>Rouſe</hi> and <hi>Brough,</hi>
+                  </l>
+                  <l>
+                     <hi>Eternity is Puniſhment enough.</hi>
+                  </l>
+                  <l>Take an authentick Term for your Condition,</l>
+                  <l>'Twas <hi>Murther</hi> ſtyl'd by th' Houſe you now Petition;</l>
+                  <l>Petition Heaven, (if it be not too late,)</l>
+                  <l>And tempt no more inevitable Face:</l>
+                  <l>But note, that they do Penitence pretend,</l>
+                  <l>Who ſtrive to extenuate, and not amend.</l>
+               </lg>
+               <lg>
+                  <l>And here ſome Tears does injur'd <hi>Corniſh</hi> call,</l>
+                  <l>Whom weeping Heaven does annually bewail,</l>
+                  <l>And Vengeance <hi>ſwift as Fate</hi> upon his Murtherers entail;</l>
+                  <l>Whoſe Death will never be forgot, forgiven</l>
+                  <l>On Earth by Man, or unreveng'd by Heaven:</l>
+                  <l>An Innocent Man by your unrighteous Breath,</l>
+                  <l>As a Man before the wicked fell. —</l>
+                  <pb n="32" facs="tcp:199149:18"/>
+                  <l>To paint the ſingle Character of all,</l>
+                  <l>Would ſwell the Satyr to a Chronicle:</l>
+                  <l>As whipping <hi>Langham,</hi> and his Brother <hi>Kent,</hi>
+                  </l>
+                  <l>With Pious <hi>Brerewood,</hi> Doctor Small-beer's Saint;</l>
+                  <l>And ſome that ſacrificed Miſtreſs <hi>Gaunt;</hi>
+                  </l>
+                  <l>With one of <hi>Corniſhes,</hi> (that yet <hi>ſurvives,</hi>)</l>
+                  <l>And near an hundred more <hi>Diminutives:</hi>
+                  </l>
+                  <l>One general Character the Liſt may Own,</l>
+                  <l>The <hi>Hackney Jurors</hi> of the Drooping Town;</l>
+                  <l>The Inquiſitors of late Tyrannick Reign,</l>
+                  <l>Who now <hi>Petition</hi> for Power to Ride again.</l>
+               </lg>
+               <lg>
+                  <l>How vaſt had been the Liſt, had not the band,</l>
+                  <l>To Senate Members only been confin'd:</l>
+                  <l>Thus Sir <hi>J— M—r</hi> they left, and that was pity,</l>
+                  <l>Who had ſo long been th' <hi>Genius</hi> of the City:</l>
+                  <l>Well might the King to his Eſcutcheon add</l>
+                  <l>The <hi>Rampant</hi> 
+                     <note n="*" place="margin">K. <hi>Charles</hi> ad<g ref="char:EOLhyphen"/>ded to his Scut<g ref="char:EOLhyphen"/>cheon the <hi>Lyon Rampant.</hi>
+                     </note> 
+                     <hi>Lyon,</hi> who ſuch roaring made,</l>
+                  <l>And eat up all the Priviledges we had:</l>
+                  <l>And ſome Aſſiſtants that the Fury fed,</l>
+                  <l>Were now become of the Petitioned.</l>
+                  <pb n="33" facs="tcp:199149:18"/>
+                  <l>Not thence the ſlacker handed to put on,</l>
+                  <l>The labour'd purchaſe of Confuſion:</l>
+                  <l>For if paſt Hazards are a proper Teſt,</l>
+                  <l>Sir <hi>Thomas</hi> ſhares a Faith above miſtruſt:</l>
+                  <l>Who Frigidated by Diſtemper'd <hi>Hams,</hi>
+                  </l>
+                  <l>His Fiery Zeal for Slavery proclaims;</l>
+                  <l>With Gouty Corps, in Mathematick Chair,</l>
+                  <l>To Charter giving Votes did heartily repair.</l>
+               </lg>
+               <lg>
+                  <l>Sir <hi>Sy—n L—s</hi> held up both his Paws,</l>
+                  <l>To think that he who ſmarted for the Cauſe,</l>
+                  <l>Should now be robb'd of his delight, Applauſe;</l>
+                  <l>And by his <hi>quondam</hi> Honours loudly ſwore,</l>
+                  <l>Tho' Jilted oft, was never Thus before;</l>
+                  <l>Nothing but time can lay the fermentation,</l>
+                  <l>Or make his Worſhip fit for Converſation.</l>
+                  <l>Not <hi>Celia's</hi> Charms, not <hi>Clora's</hi> tender hours,</l>
+                  <l>But raves in Love, and frets in his Amours.</l>
+               </lg>
+               <lg>
+                  <l>Sir <hi>W—m W—ms</hi> firſt the Cauſe eſpous'd,</l>
+                  <l>And all his ſputtering Eloquence he rous'd;</l>
+                  <pb n="34" facs="tcp:199149:19"/>
+                  <l>Foaming with learned Fury, you'd ha' thought,</l>
+                  <l>He came to ſpew them in, he once ſpew'd out.</l>
+                  <l>Well hir'd to be the Churches Champion,</l>
+                  <l>And thus for <hi>Biſhops Tryal</hi> does attone.</l>
+                  <l>For Soveraign Fee, with eager note does prate,</l>
+                  <l>No Cauſe ſo bad but has an Advocate.</l>
+               </lg>
+               <lg>
+                  <l>And to make up the ſhowe, with Men of Sence,</l>
+                  <l>Comes <hi>Common S—t</hi> for an <hi>Evidence;</hi>
+                  </l>
+                  <l>With <hi>We</hi>'s, and <hi>They</hi>'s, with <hi>Us</hi>'s, and <hi>Suppoſe</hi>'s,</l>
+                  <l>Tells how in <hi>Common Hall</hi> he counted Noſes:</l>
+                  <l>Tells you how he himſelf with City Power,</l>
+                  <l>Decently waited on by Sheriffs, and <hi>Mayor,</hi>
+                  </l>
+                  <l>Does <hi>Propria Perſona</hi> firſt diſcloſe,</l>
+                  <l>And tell the People who it is they choſe.</l>
+                  <l>With Meagre Face, and true Mechanick Pride,</l>
+                  <l>So will th' exalted Beggar always ride.</l>
+               </lg>
+            </div>
+            <div type="conclusion">
+               <pb n="35" facs="tcp:199149:19"/>
+               <head>The CONCLUSION.</head>
+               <lg>
+                  <l>GReat <hi>Naſſau</hi> from his envied Throne look't down,</l>
+                  <l>And view'd their buſie Malice with a Frown.</l>
+                  <l>Their Impotent Fury view'd with juſt diſdain,</l>
+                  <l>
+                     <hi>And ask'd if he had Sav'd them all in vain?</hi>
+                  </l>
+                  <l>Their weak Intreagues with due Contempt he ſaw,</l>
+                  <l>And generouſly reſtrain'd the ſcourge of Law.</l>
+                  <l>His Conquering Mercy did his Juſtice ſtay,</l>
+                  <l>And at his Peril let them diſobey:</l>
+                  <l>Reſtraints to his own injur'd Paſſions gave,</l>
+                  <l>Their Folly pityed, and their Guilt forgave.</l>
+                  <l>A Proof he ſtrove for their meer Liberty,</l>
+                  <l>Had <hi>fought</hi> to ſave, and <hi>conquer'd</hi> to ſet free;</l>
+                  <l>Divinely Good, their treacherous arts he bore,</l>
+                  <l>Was ſtill as kind, and gentle as before:</l>
+                  <l>Arm'd them as Friends, to fortifie his Throne,</l>
+                  <l>And ſmil'd until they thought he durſt not frown.</l>
+                  <l>But when their Inſolence his Arm defy'd,</l>
+                  <l>And wou'd again their baffled Cauſe have try'd,</l>
+                  <l>And he muſt now deſtroy or be deſtroy'd;</l>
+                  <pb n="36" facs="tcp:199149:20"/>
+                  <l>Let's flye at once his Vengeance to devour,</l>
+                  <l>And gives a taſte of his miſtaken Power:</l>
+                  <l>Takes care that they ſhall never more rebell,</l>
+                  <l>And with juſt Thunder drives them down to Hell.</l>
+                  <l>"So <hi>Jove</hi> when Earth born <hi>Titan</hi>'s did aſpire,</l>
+                  <l>"Pile Hill on Hill, and higher yet came and higher,</l>
+                  <l>"Till they almoſt had ſcal'd Heavens glittering Wall,</l>
+                  <l>"And either they, or he himſelf muſt fall;</l>
+                  <l>"Unrein'd his Vengeance, let his Thunders flye,</l>
+                  <l>"And forked Lightnings ſally round the Skye;</l>
+                  <l>"The black <hi>Abyſs</hi> is cover'd with their ſpoils,</l>
+                  <l>"They float on <hi>Chaos,</hi> like enchanted Iſles;</l>
+                  <l>"Transfix't with angry Bolts, from ſurge to ſurge they go,</l>
+                  <l>"Deſpair and raving wander in Eternal Woe:</l>
+                  <l>May all thine Enemies, <hi>Great Naſſau,</hi> periſh ſo.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
